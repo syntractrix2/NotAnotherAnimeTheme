@@ -50,9 +50,9 @@
   --font-size: 100%;
 
   /*[MENTION COLORS]*/
-  --mention-color: #931d335f; /*The color messages that mention you will highlight in*/
+  --mention-color: #000000CE; /*The color messages that mention you will highlight in*/
   --mention-sider: #931d337f; /*The small bar on the left of a message that mentions you*/
-  --mention-hover-color: #931d335f; /*The color a mention highlight changes to when you hover over it*/
+  --mention-hover-color: #000000CE; /*The color a mention highlight changes to when you hover over it*/
 
   --category-hover-color: #2a4d355f; /*Color that categories change to when hovered over*/
 
