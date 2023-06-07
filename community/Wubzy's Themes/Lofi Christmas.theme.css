@@ -28,7 +28,7 @@
   /*[MAIN THEME SETTINGS]*/
   /*Some important settings that will change the majority of your client.*/
   --theme-background-image: url(https://cdn.discordapp.com/attachments/1091018334386000056/1115411769486221372/05plct22.jpg); /*The main image over your whole Discord client*/
-  --main-theme-color: #2a4d35; /*The default theme color*/
+  --main-theme-color: #4a4a4a; /*The default theme color*/
   --theme-transparency: rgba(0, 0, 0, 0.6); /*The mask that applies over the background*/
   /*--home-icon-image: url(https://cdn.discordapp.com/attachments/817661056892665857/918730415571894272/unknown.png); /*Your friends icon*/
   --home-icon-image-position: center center;
@@ -50,7 +50,7 @@
   --font-size: 100%;
 
   /*[MENTION COLORS]*/
-  --mention-color: #0000003F; /*The color messages that mention you will highlight in*/
+  --mention-color: #00000026; /*The color messages that mention you will highlight in*/
   --mention-sider: #931d337f; /*The small bar on the left of a message that mentions you*/
   --mention-hover-color: #00000059; /*The color a mention highlight changes to when you hover over it*/
 
