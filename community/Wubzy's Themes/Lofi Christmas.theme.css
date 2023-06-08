@@ -56,7 +56,7 @@
 
   --category-hover-color: #2a4d355f; /*Color that categories change to when hovered over*/
 
-  /*--unread-server-animation: rainbow; /*The color animation that appears over server icons with unreads. Best to leave this be.*/
+  *--unread-server-animation: rainbow; /*The color animation that appears over server icons with unreads. Best to leave this be.*/
 
   /*[VIDEO PLAYER]*/
   --video-screen-button-background-color: rgba(200, 200, 200, 0.2);
