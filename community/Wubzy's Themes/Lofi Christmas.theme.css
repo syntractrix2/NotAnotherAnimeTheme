@@ -30,9 +30,9 @@
   --theme-background-image: url(https://cdn.discordapp.com/attachments/1091018334386000056/1115411769486221372/05plct22.jpg); /*The main image over your whole Discord client*/
   --main-theme-color: #7a7a7a; /*The default theme color*/
   --theme-transparency: rgba(0, 0, 0, 0.6); /*The mask that applies over the background*/
-  /*--home-icon-image: url(https://cdn.discordapp.com/attachments/817661056892665857/918730415571894272/unknown.png); /*Your friends icon*/
+  --home-icon-image: url(); /*Your friends icon*/
   --home-icon-image-position: center center;
-  --home-icon-image-zoom: 100%;
+  /*--home-icon-image-zoom: 100%;
 
   /*
     Server Listing Width
@@ -56,7 +56,7 @@
 
   --category-hover-color: #2a4d355f; /*Color that categories change to when hovered over*/
 
-  --unread-server-animation: rainbow; /*The color animation that appears over server icons with unreads. Best to leave this be.*/
+  /*--unread-server-animation: rainbow; /*The color animation that appears over server icons with unreads. Best to leave this be.*/
 
   /*[VIDEO PLAYER]*/
   --video-screen-button-background-color: rgba(200, 200, 200, 0.2);
@@ -99,7 +99,7 @@
   --channel-limit-background-left: rgba(200, 200, 200, 0.1);
   --channel-limit-background-right: rgba(200, 200, 200, 0.2);
 
-  --scrollbar-color: #2a4d3589;
+  --scrollbar-color: #464646ff;
 
   --unread-message-divider-color: #000000B2;
   --unread-message-divider-font-color: #fff;
@@ -120,8 +120,8 @@
   --text-voice-channel-color: rgb(142, 146, 151);
   --text-voice-channel-hover-color: #dcddde;
   --text-voice-channel-selected-text-color: #fff;
-  --unread-text-channel-color: #2a4d35;
-  --unread-text-channel-bubble-color: #2a4d35;
+  --unread-text-channel-color: #8d8888;
+  --unread-text-channel-bubble-color: #c06b6a;
 
   --folder-background-color: #2f3136;
   --expanded-folder-background-color: transparent;
