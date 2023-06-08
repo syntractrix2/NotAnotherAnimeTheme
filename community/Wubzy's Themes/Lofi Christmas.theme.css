@@ -78,7 +78,7 @@
   --big-user-popout-background-image-position: center;
 
   /*[CODE BLOCKS]*/
-  --code-markup-background-color: rgba(0, 0, 0, 0.6); /*Code blocks background color*/
+  --code-markup-background-color: rgba(0, 0, 0, 0.4); /*Code blocks background color*/
   --code-markup-border: 1px solid transparent; /*An optional border around code blocks (defaults to transparent - or invisible)*/
 
   --message-box-transparency: rgba(0, 0, 0, 0.6); /*The message box at the bottom. Change the first three values to edit its color, and the last to edit its transparency*/
